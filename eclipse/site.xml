@@ -3,5 +3,5 @@
    <description name="ACS plugins for developers" url="https://javarias.github.io/eclipse">
       ACS plugins for developers
    </description>
-   <feature url="features/ACSPlugins_2.0.0.jar" id="ACSPlugins" version="2.0.0" os="linux,macosx" ws="carbon,cocoa,gtk,motif"/>
+   <feature url="features/ACSPlugins_2.0.1.jar" id="ACSPlugins" version="2.0.1" os="linux,macosx"/>
 </site>
